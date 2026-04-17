@@ -1,6 +1,0 @@
-STRATEGIC BLUEPRINT#1: THE DMZ
-ΣΤΟΧΟΣ: Προστασια της "Εσωτερικης Ζωνης".
-
-Περιεχομενο : Web Server: Φιλοξενεί το site μας.
-- Firewall: Επιτρέπει μόνο κίνηση Web (80/443).
-- Intrusion Detection (IDS): Για να ξέρουμε ποιος μας χτυπάει.χ 
