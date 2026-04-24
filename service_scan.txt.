@@ -1,0 +1,4 @@
+PORT     STATE SERVICE VERSION
+21/tcp   open  ftp     ProFTPD
+80/tcp   open  http?
+3306/tcp open  mysql   MariaDB 5.5.5-10.11.14
